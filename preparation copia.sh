@@ -1,0 +1,1 @@
+sed '1,4d' analysis.csv
